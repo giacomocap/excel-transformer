@@ -1,0 +1,17 @@
+{
+    "name": "excel-transformer",
+    "version": "1.0.0",
+    "description": "A script to transform Excel data",
+    "main": "index.ts",
+    "scripts": {
+        "start": "ts-node index.ts"
+    },
+    "dependencies": {
+        "ts-node": "^10.9.2",
+        "typescript": "^5.4.5",
+        "xlsx": "^0.18.5"
+    },
+    "devDependencies": {
+        "@types/node": "^18.19.33"
+    }
+}
